@@ -1,0 +1,3 @@
+[submodule "wbcatt"]
+	path = wbcatt
+	url = https://github.com/apple2373/wbcatt/
